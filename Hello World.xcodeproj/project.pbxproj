@@ -12,6 +12,7 @@
 		CCA06F121DF38FD300EE18A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CCA06F101DF38FD300EE18A0 /* Main.storyboard */; };
 		CCA06F141DF38FD300EE18A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCA06F131DF38FD300EE18A0 /* Assets.xcassets */; };
 		CCA06F171DF38FD300EE18A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CCA06F151DF38FD300EE18A0 /* LaunchScreen.storyboard */; };
+		CCA06F1F1DF3990A00EE18A0 /* test.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CCA06F1E1DF3990A00EE18A0 /* test.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CCA06F131DF38FD300EE18A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CCA06F161DF38FD300EE18A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CCA06F181DF38FD300EE18A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CCA06F1E1DF3990A00EE18A0 /* test.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = test.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				CCA06F0C1DF38FD300EE18A0 /* AppDelegate.swift */,
 				CCA06F0E1DF38FD300EE18A0 /* ViewController.swift */,
 				CCA06F101DF38FD300EE18A0 /* Main.storyboard */,
+				CCA06F1E1DF3990A00EE18A0 /* test.jpg */,
 				CCA06F131DF38FD300EE18A0 /* Assets.xcassets */,
 				CCA06F151DF38FD300EE18A0 /* LaunchScreen.storyboard */,
 				CCA06F181DF38FD300EE18A0 /* Info.plist */,
@@ -96,6 +99,7 @@
 				TargetAttributes = {
 					CCA06F081DF38FD300EE18A0 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 4TSU82VB9X;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -126,6 +130,7 @@
 				CCA06F171DF38FD300EE18A0 /* LaunchScreen.storyboard in Resources */,
 				CCA06F141DF38FD300EE18A0 /* Assets.xcassets in Resources */,
 				CCA06F121DF38FD300EE18A0 /* Main.storyboard in Resources */,
+				CCA06F1F1DF3990A00EE18A0 /* test.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,6 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4TSU82VB9X;
 				INFOPLIST_FILE = "Hello World/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.punithrkashi.Hello-World";
@@ -270,6 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4TSU82VB9X;
 				INFOPLIST_FILE = "Hello World/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.punithrkashi.Hello-World";
