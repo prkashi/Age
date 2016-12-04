@@ -29,7 +29,7 @@ class ViewController: UIViewController {
         
         image.alpha = 1.00
         
-        
+        //test
     }
     
     
